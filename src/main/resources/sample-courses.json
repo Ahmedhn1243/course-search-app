@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Math Basics",
+    "description": "Learn the basics of arithmetic.",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "1st–3rd",
+    "minAge": 6,
+    "maxAge": 8,
+    "price": 100.0,
+    "nextSessionDate": "2025-07-20T10:00:00"
+  },
+  {
+    "id": "2",
+    "title": "Intro to Science",
+    "description": "Hands-on science experiments.",
+    "category": "Science",
+    "type": "CLUB",
+    "gradeRange": "4th–6th",
+    "minAge": 9,
+    "maxAge": 12,
+    "price": 150.0,
+    "nextSessionDate": "2025-08-01T14:00:00"
+  }
+]
