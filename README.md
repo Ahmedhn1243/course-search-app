@@ -1,6 +1,4 @@
-Here's a comprehensive **README.md** template for your Spring Boot + Elasticsearch project. Create this file in your **project root directory** (same level as `pom.xml`):
 
-```markdown
 # Course Search Application
 
 A Spring Boot application with Elasticsearch integration for searching educational courses with filters, pagination, and sorting.
@@ -107,13 +105,4 @@ docker-compose.yml
 3. **Customize**:
    - Update the package paths (`com.ahmedhussain/demo`)
    - Add any project-specific details
-   - Include your name in the license section
-
-### Best Practices for README:
-- Keep it updated as you add features
-- Use clear section headings
-- Include example requests/responses
-- Mention any environment variables needed
-- Add badges for build status/test coverage if available
-
-Would you like me to add any specific additional sections (like deployment instructions, screenshots, or API documentation examples)?
+   - Include your name in the license 
